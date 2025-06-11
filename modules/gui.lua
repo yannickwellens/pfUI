@@ -834,6 +834,7 @@ pfUI:RegisterModule("gui", "vanilla:tbc", function ()
         "Interface\\AddOns\\pfUI\\fonts\\Continuum.ttf:Continuum",
         "Interface\\AddOns\\pfUI\\fonts\\DieDieDie.ttf:DieDieDie",
         "Interface\\AddOns\\pfUI\\fonts\\Expressway.ttf:Expressway",
+        "Interface\\AddOns\\pfUI\\fonts\\Francois.ttf:Francois",
         "Interface\\AddOns\\pfUI\\fonts\\Homespun.ttf:Homespun",
         "Interface\\AddOns\\pfUI\\fonts\\Hooge.ttf:Hooge",
         "Interface\\AddOns\\pfUI\\fonts\\Myriad-Pro.ttf:Myriad-Pro",
